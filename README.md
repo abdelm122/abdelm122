@@ -13,27 +13,7 @@ I am passionate about learning new technologies, exploring software engineering,
 - 🛠 **Software Engineering & Development**  
 - 📱 **Embedded Systems & IoT**  
 - 🔬 **Continuous Learning & Tech Exploration**
-
 ---
-
-## 🧠 Featured Projects
-
-### 🛣️ Road Surface Recognition using TinyML
-> *Bachelor / Study Project*  
-Developed an AI model that classifies road surface types using data from an **IMU sensor**. The system is optimized for low-power microcontrollers, enabling real-time surface detection for automotive or mobility applications.
-
-- **Tech:** Python, TensorFlow Lite, IMU data processing, embedded C++
-- **Key tasks:** Data collection, model training, quantization, deployment to microcontroller
-
-### 🔢 Handwritten Digit Recognition AI
-> *Study Project*  
-Built and trained a convolutional neural network (CNN) to recognize handwritten digits from drawings, with a focus on robustness and accuracy in real-world scenarios.
-
-- **Tech:** Python, TensorFlow/Keras, OpenCV, CNN
-- **Key tasks:** Dataset preprocessing, model architecture design, training/evaluation pipeline
-
----
-
 ## 📚 Currently Exploring
 
 - Advanced software engineering principles & system design
